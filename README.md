@@ -1,5 +1,5 @@
 # Excel-Project
-In this Project , First I downloaded the data from Kaggle.
+In this Project , First I downloaded the data from Kaggle. This Data is from a Supermarket Store.
 
 Next , I cleaned the data . Then I created some new columns for Analysis using Excel formulas.
 
